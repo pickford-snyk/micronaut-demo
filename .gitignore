@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 
+=======
+Thumbs.db
+.DS_Store
+.gradle
+build/
+target/
+out/
+.idea
+*.iml
+*.ipr
+*.iws
+.project
+.settings
+.classpath
+.factorypath
+>>>>>>> 0ec51d2 (Initial commit)
